@@ -8,11 +8,11 @@ Puoi trovare questi dati negli “Insight” su Facebook e negli “Analytics”
 
 .. admonition:: DEVI
 
-   Monitorare con continuità i dati delle pagine social per capire come indirizzare la programmazione. Condividere i risultati numerici con    il gruppo di lavoro per attuare azioni correttive, coerenti con la strategia di comunicazione complessiva. 
+   Monitorare con continuità i dati delle pagine social per capire come indirizzare la programmazione. Condividere i risultati numerici      con il gruppo di lavoro per attuare azioni correttive, coerenti con la strategia di comunicazione complessiva. 
 
 .. admonition:: DOVRESTI
 
-   Associare Insights e Analytics per monitorare i risultati della comunicazione a tutto tondo. Ad esempio: verificando se una call to        action in un post organico di Facebook si traduce in visite effettive al sito web o alla pagina di un servizio specifico, e se              eventualmente sia necessario un investimento promozionale.
+   Associare Insights e Analytics per monitorare i risultati della comunicazione a tutto tondo. Ad esempio: verificando se una call to        action in un post organico di Facebook si traduce in visite effettive al sito web o alla pagina di un servizio specifico, e se            eventualmente sia necessario un investimento promozionale.
 
 .. admonition:: POTRESTI
 
